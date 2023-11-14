@@ -6,7 +6,7 @@ I’m currently working on a personal website, creating a video game, and a majo
 Outside of school im interested in many things such as soccer, playing the guitar, video games (of course), and movies. <br>
 <br> <br>
 You can reach me at: <br>
-<a href=mailto:"aa.tolooei@gmail.com">Email</a> | <a href="https://linktr.ee/avltg">Linktree</a>
+<a href="mailto:aa.tolooei@gmail.com">Personal Email</a> | <a href="mailto:amirali.tolooei@mail.utoronto.ca">School Email</a> |<a href="https://linktr.ee/avltg">Linktree</a>
 
 <!--
 **AVLTG/AVLTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
