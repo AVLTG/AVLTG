@@ -2,8 +2,8 @@
 ### 🦥
 <br>
 My name is Amirali Tolooei, a computer science major and statistics minor at the University of Toronto!  <br>
-I’m currently working on a personal website, creating a video game, and a major project for one of my cs courses.<br>
-Outside of school im interested in many things such as soccer, playing the guitar, video games (of course), and movies. <br>
+I’m currently in university learning Machine Learning, Game Dev, Human Computer Interactions, and computer vision.<br>
+Outside of school, I'm interested in many things such as Magic The Gathering, video games, playing guitar, and going to the gym. <br>
 <br> <br>
 You can reach me at: <br>
 <a href="mailto:aa.tolooei@gmail.com">Personal Email</a> | <a href="mailto:amirali.tolooei@mail.utoronto.ca">School Email</a> |<a href="https://linktr.ee/avltg">Linktree</a>
