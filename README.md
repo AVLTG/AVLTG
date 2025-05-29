@@ -7,8 +7,7 @@ Outside of school, I'm interested in many things such as Magic The Gathering, vi
 <br> <br>
 <a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=avltg&show_icons=true&hide=stars&rank_icon=github&theme=dracula&border_radius=0" /></a>
 <a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avltg&theme=dracula&show_icons=true&hide_border=false&layout=compact" /></a>
-
-![avltg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avltg&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+<a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avltg&theme=dracula&hide_border=false" /></a>
 
 
 <br> <br>
