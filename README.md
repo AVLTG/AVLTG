@@ -5,8 +5,7 @@ My name is Amirali Tolooei, a computer science major and statistics minor at the
 I’m currently in university learning Machine Learning, Game Dev, Human Computer Interactions, and computer vision.<br>
 Outside of school, I'm interested in many things such as Magic The Gathering, video games, playing guitar, and going to the gym. <br>
 <br> <br>
-![avltg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=avltg&theme=dracula&hide_border=false)
-![avltg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avltg&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+<a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=avltg&show_icons=true&hide=stars&rank_icon=github&theme=dracula&border_radius=0" /></a>
 <br> <br>
 You can reach me at: <br>
 <a href="mailto:aa.tolooei@gmail.com">Personal Email</a> | <a href="mailto:amirali.tolooei@mail.utoronto.ca">School Email</a> |<a href="https://linktr.ee/avltg">Linktree</a>
