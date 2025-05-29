@@ -6,6 +6,11 @@ I’m currently in university learning Machine Learning, Game Dev, Human Compute
 Outside of school, I'm interested in many things such as Magic The Gathering, video games, playing guitar, and going to the gym. <br>
 <br> <br>
 <a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=avltg&show_icons=true&hide=stars&rank_icon=github&theme=dracula&border_radius=0" /></a>
+<a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avltg&theme=dracula&show_icons=true&hide_border=false&layout=compact" /></a>
+
+![avltg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avltg&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+
 <br> <br>
 You can reach me at: <br>
 <a href="mailto:aa.tolooei@gmail.com">Personal Email</a> | <a href="mailto:amirali.tolooei@mail.utoronto.ca">School Email</a> |<a href="https://linktr.ee/avltg">Linktree</a>
