@@ -11,7 +11,7 @@ Outside of school, I'm interested in many things such as Magic The Gathering, vi
 
 <br> <br>
 You can reach me at: <br>
-<a href="mailto:aa.tolooei@gmail.com">Personal Email</a> | <a href="mailto:amirali.tolooei@mail.utoronto.ca">School Email</a> |<a href="https://linktr.ee/avltg">Linktree</a>
+<a href="mailto:aa.tolooei@gmail.com">Personal Email</a> | <a href="mailto:amirali.tolooei@mail.utoronto.ca">School Email</a> | <a href="https://linktr.ee/avltg">Linktree</a> | <a href="https://avltg.dev">Website</a>
 
 <!--
 **AVLTG/AVLTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
